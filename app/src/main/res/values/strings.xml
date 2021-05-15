@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+
+    <string name="add_alarm_button">+</string>
+
+    <string name="time_view">Status</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="ok_button">OK</string>
+
+    <string name="text_view">TextView</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+</resources>

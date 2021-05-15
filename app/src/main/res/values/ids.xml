@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toggleButton" type="id" />
+    <item name="subtitle" type="id" />
+    <item name="deleteButton" type="id" />
+</resources>
